@@ -1,6 +1,6 @@
 # PieLabel
 A Pie with D3.js v4
-![](http://ocm1e5iqa.bkt.clouddn.com/stackergif.gif)
+![](http://ocm1e5iqa.bkt.clouddn.com/pielabel.gif)
 
 **use case:**
 ```
